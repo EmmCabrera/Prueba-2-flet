@@ -6,7 +6,7 @@ def main(page: ft.Page):
     page.title = "Flet Counter App"
 
     # a light/bright theme
-    page.theme_mode = "light"
+    page.theme_mode = "dark"
 
     # the page's alignment
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
